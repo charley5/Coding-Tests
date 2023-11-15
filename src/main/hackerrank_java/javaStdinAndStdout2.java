@@ -1,5 +1,4 @@
-package HackerRank;
-import java.io.*;
+package main.hackerrank_java;
 import java.util.*;
 
 public class javaStdinAndStdout2 {
